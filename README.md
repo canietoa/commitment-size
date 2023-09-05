@@ -5,13 +5,13 @@ Source code for the article:  Mechanisms of Cell Size Regulation in Slow-Growing
 
 Datasets:
 
-Data.csv: Contains the Size at borth and size at division for different strains following the sizer-like division strategy.
+Data.csv: Contains the Size at both and size at division for different strains following the sizer-like division strategy.
 
 Eval2.csv: Evaluation of the models performance given the parameters and the data. 
 
-NSol: Results of the numerical estimation of the moments of the distribution of size at division and size at birth.
+NSol.csv: Results of the numerical estimation of the moments of the distribution of size at division gven the size at birth.
 
-Params: Best model parameters for the observed data.
+Params.csv: Best model parameters for the observed data.
 
 Code:
 
