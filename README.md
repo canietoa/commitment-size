@@ -1,5 +1,10 @@
 # commitment-size
-@author: canietoa. Cesar Augusto Nieto Acuna. University of Delaware 2023.
+
+version 2.0.0:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3951080.svg)](https://doi.org/10.5281/zenodo.3951080)
+
+@author: canietoa. Cesar Augusto Nieto Acuna. University of Delaware. September 2023.
 
 Source code for the article:  Mechanisms of Cell Size Regulation in Slow-Growing Escherichia coli Cells: Discriminating Models Beyond the Adder
 
